@@ -2,15 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iMayankShekhar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmayank-shekahr&screen_name=iMayankShekhar)
 
-## I'm a Husband, Father 🐶, Developer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other frontend engineers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video games and travel
-
-### [Spotify Playing 🎧](https://open.spotify.com/user/we29hwqaoyfcipw0cw025bbs6)
-
 ###
 
 ###
